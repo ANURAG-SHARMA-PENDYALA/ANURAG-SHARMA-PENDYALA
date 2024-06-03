@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ANURAG-SHARMA-PENDYALA
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning full stack web devlopment
-- 💞️ I’m looking to collaborate on web devlopment
+- 💞️ I’m looking to collaborate on web devlopment projects.
 - 📫 How to reach me pendyalaanuragsharma@gmail.com
 
 <!---
