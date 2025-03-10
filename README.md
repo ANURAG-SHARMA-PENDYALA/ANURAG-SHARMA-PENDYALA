@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ANURAG-SHARMA-PENDYALA
+- 👋 Hi, I’m anurag-sharma-pendyala
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning full stack web devlopment
 - 💞️ I’m looking to collaborate on web development projects.
